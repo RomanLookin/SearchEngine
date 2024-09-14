@@ -1,0 +1,184 @@
+{
+    "answers": {
+        "request000": {
+            "result": "true",
+            "relevance": {
+                ["docid": 991, "rank": 1.000, ]
+                ["docid": 38, "rank": 0.923, ]
+                ["docid": 270, "rank": 0.923, ]
+                ["docid": 630, "rank": 0.923, ]
+            }
+        },
+        "request001": {
+            "result": "true",
+            "relevance": {
+                ["docid": 1, "rank": 1.000, ]
+                ["docid": 186, "rank": 1.000, ]
+                ["docid": 85, "rank": 0.750, ]
+                ["docid": 369, "rank": 0.750, ]
+            }
+        },
+        "request002": {
+            "result": "true",
+            "relevance": {
+                ["docid": 2, "rank": 1.000, ]
+                ["docid": 36, "rank": 0.714, ]
+                ["docid": 329, "rank": 0.714, ]
+                ["docid": 87, "rank": 0.643, ]
+            }
+        },
+        "request003": {
+            "result": "true",
+            "relevance": {
+                ["docid": 3, "rank": 1.000, ]
+                ["docid": 557, "rank": 0.429, ]
+                ["docid": 164, "rank": 0.214, ]
+                ["docid": 450, "rank": 0.214, ]
+            }
+        },
+        "request004": {
+            "result": "true",
+            "relevance": {
+                ["docid": 4, "rank": 1.000, ]
+                ["docid": 114, "rank": 0.286, ]
+                ["docid": 303, "rank": 0.286, ]
+                ["docid": 432, "rank": 0.286, ]
+            }
+        },
+        "request005": {
+            "result": "true",
+            "relevance": {
+                ["docid": 821, "rank": 1.000, ]
+                ["docid": 5, "rank": 0.909, ]
+                ["docid": 171, "rank": 0.818, ]
+                ["docid": 722, "rank": 0.818, ]
+            }
+        },
+        "request006": {
+            "result": "true",
+            "relevance": {
+                ["docid": 55, "rank": 1.000, ]
+                ["docid": 157, "rank": 0.857, ]
+                ["docid": 314, "rank": 0.857, ]
+                ["docid": 475, "rank": 0.857, ]
+            }
+        },
+        "request007": {
+            "result": "true",
+            "relevance": {
+                ["docid": 7, "rank": 1.000, ]
+                ["docid": 92, "rank": 0.438, ]
+                ["docid": 179, "rank": 0.375, ]
+                ["docid": 302, "rank": 0.375, ]
+            }
+        },
+        "request008": {
+            "result": "true",
+            "relevance": {
+                ["docid": 8, "rank": 1.000, ]
+                ["docid": 542, "rank": 0.421, ]
+                ["docid": 931, "rank": 0.421, ]
+                ["docid": 34, "rank": 0.316, ]
+            }
+        },
+        "request009": {
+            "result": "true",
+            "relevance": {
+                ["docid": 9, "rank": 1.000, ]
+                ["docid": 278, "rank": 0.300, ]
+                ["docid": 361, "rank": 0.300, ]
+                ["docid": 869, "rank": 0.300, ]
+            }
+        },
+        "request010": {
+            "result": "true",
+            "relevance": {
+                ["docid": 10, "rank": 1.000, ]
+                ["docid": 85, "rank": 0.583, ]
+                ["docid": 408, "rank": 0.583, ]
+                ["docid": 322, "rank": 0.333, ]
+            }
+        },
+        "request011": {
+            "result": "true",
+            "relevance": {
+                ["docid": 11, "rank": 1.000, ]
+                ["docid": 214, "rank": 0.700, ]
+                ["docid": 630, "rank": 0.700, ]
+                ["docid": 165, "rank": 0.600, ]
+            }
+        },
+        "request012": {
+            "result": "true",
+            "relevance": {
+                ["docid": 12, "rank": 1.000, ]
+                ["docid": 620, "rank": 0.833, ]
+                ["docid": 407, "rank": 0.750, ]
+                ["docid": 420, "rank": 0.750, ]
+            }
+        },
+        "request013": {
+            "result": "true",
+            "relevance": {
+                ["docid": 13, "rank": 1.000, ]
+                ["docid": 55, "rank": 0.609, ]
+                ["docid": 157, "rank": 0.609, ]
+                ["docid": 314, "rank": 0.522, ]
+            }
+        },
+        "request014": {
+            "result": "true",
+            "relevance": {
+                ["docid": 14, "rank": 1.000, ]
+                ["docid": 882, "rank": 1.000, ]
+                ["docid": 776, "rank": 0.467, ]
+                ["docid": 500, "rank": 0.400, ]
+            }
+        },
+        "request015": {
+            "result": "true",
+            "relevance": {
+                ["docid": 15, "rank": 1.000, ]
+                ["docid": 353, "rank": 0.381, ]
+                ["docid": 642, "rank": 0.190, ]
+                ["docid": 207, "rank": 0.143, ]
+            }
+        },
+        "request016": {
+            "result": "true",
+            "relevance": {
+                ["docid": 821, "rank": 1.000, ]
+                ["docid": 121, "rank": 0.833, ]
+                ["docid": 633, "rank": 0.833, ]
+                ["docid": 797, "rank": 0.833, ]
+            }
+        },
+        "request017": {
+            "result": "true",
+            "relevance": {
+                ["docid": 17, "rank": 1.000, ]
+                ["docid": 160, "rank": 0.188, ]
+                ["docid": 226, "rank": 0.125, ]
+                ["docid": 48, "rank": 0.062, ]
+            }
+        },
+        "request018": {
+            "result": "true",
+            "relevance": {
+                ["docid": 18, "rank": 1.000, ]
+                ["docid": 447, "rank": 1.000, ]
+                ["docid": 978, "rank": 0.889, ]
+                ["docid": 622, "rank": 0.778, ]
+            }
+        },
+        "request019": {
+            "result": "true",
+            "relevance": {
+                ["docid": 679, "rank": 1.000, ]
+                ["docid": 821, "rank": 0.917, ]
+                ["docid": 407, "rank": 0.833, ]
+                ["docid": 722, "rank": 0.833, ]
+            }
+        },
+    }
+}

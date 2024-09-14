@@ -1,0 +1,14 @@
+{
+	"config":{
+		"name": "SkillboxSearchEngine",
+		"version": "0.1",
+		"max_responses": 4
+	},
+	"files": [
+		"resourse\\lenta-ru-partial-text1.csv",
+		"resourse\\lenta-ru-partial-text2.csv",
+		"resourse\\lenta-ru-partial-text3.csv",
+		"resourse\\lenta-ru-partial-text4.csv",
+		"resourse\\lenta-ru-partial-text5.csv"
+	]
+}
