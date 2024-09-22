@@ -2,7 +2,6 @@
 #define SEARCHSERVER_H
 #include <vector>
 #include <string>
-//#include <map>
 #include <iostream>
 #include "invertedindex.h"
 
@@ -33,7 +32,7 @@ public:
     заданных запросов
     */
     std::vector<std::vector<RelativeIndex>> search(const std::vector<std::string>& queries_input,
-                                                   int req_max=0, int max_response=5);
+                                                   int max_req=0, int max_response=5);
 private:
     InvertedIndex _index;
 };
