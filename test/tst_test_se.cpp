@@ -39,9 +39,9 @@ void TestInvertedIndexFunctionality(const vector<string>& docs,
 {
     std::vector<std::vector<Entry>> result;
     InvertedIndex idx;
-    idx.updateDocumentBase(docs);
+    idx.UpdateDocumentBase(docs);
     for(auto& request : requests) {
-        std::vector<Entry> word_count = idx.getWordCount(request);
+        std::vector<Entry> word_count = idx.GetWordCount(request);
         result.push_back(word_count);
     }
 
@@ -115,7 +115,7 @@ void test_se::test_case4(){
         }
     };
     InvertedIndex idx;
-    idx.updateDocumentBase(docs);
+    idx.UpdateDocumentBase(docs);
     SearchServer srv(idx);
     //int doc_max=0;
     std::vector<vector<RelativeIndex>> result = srv.search(request);//, doc_max, 5);
@@ -159,7 +159,7 @@ void test_se::test_case5(){
     }
     };
     InvertedIndex idx;
-    idx.updateDocumentBase(docs);
+    idx.UpdateDocumentBase(docs);
     SearchServer srv(idx);
     std::vector<vector<RelativeIndex>> result = srv.search(request);
 
